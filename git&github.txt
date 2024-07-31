@@ -1,3 +1,2 @@
 GIT :- git is an software                        |  GITHUB :- github is an website
 GIT :- git is used with command                  |  GITHUB :- github is used with browser
-GIT :- git is an software                        |  GITHUB :- github is an website
