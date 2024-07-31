@@ -1,4 +1,4 @@
 GIT :- git is an software                        |  GITHUB :- github is an website
 GIT :- git is used with command                  |  GITHUB :- github is used with browser
-GIT :- it's usless to use git                    |  GITHUB :- it's wonderfull to use github
-
+GIT :- it's very usefull it provide all the      |  GITHUB :- it's wonderfull to use github
+       all the feautre for code manupulation     
